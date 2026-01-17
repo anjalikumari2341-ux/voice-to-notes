@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+groq
+yt-dlp
+youtube-transcript-api
+PyPDF2
+reportlab
+
+
