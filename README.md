@@ -66,11 +66,7 @@ Voice_to_Notes/
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/voice-to-notes.git
-cd voice-to-notes
+1️⃣ Clone the repository
 
 2️⃣ Create virtual environment
 python -m venv venv
@@ -95,4 +91,5 @@ streamlit run app.py
 
 Anjali Kumari
 Project — AI & Machine Learning
+
 
